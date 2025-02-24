@@ -1,2 +1,7 @@
 This is a new feature. This is a new feature.
 This is a conflicting line from main.
+This is a conflicting line from feature-branch.
+
+
+
+
